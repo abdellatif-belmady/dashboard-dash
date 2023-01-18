@@ -16,3 +16,4 @@ jobs:
       - run : pip install dash-renderer==0.7.2
       - run : pip install dash==0.17.4
       - run : pip install gunicorn==19.6.0
+      - run : dash.py
